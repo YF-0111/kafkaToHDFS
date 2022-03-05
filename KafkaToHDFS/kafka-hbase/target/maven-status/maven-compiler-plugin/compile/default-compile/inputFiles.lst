@@ -1,0 +1,13 @@
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/producer/MyKafkaProducer.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/index/IndexFirst.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/producer/SendMessageApplication.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/producer/UserBehaviorCsvFileReader.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/json/JsonSerializer.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/consumer/ConsumerTest.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/consumer/Input_hdfs.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/pointer/Pointer.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/cache/Cache.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/producer/Test.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/json/JsonDeserializer.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/cache/Item.java
+/home/ubuntu/data/our_program/KafkaToHDFS_v3_onefile_v6/kafka-hbase/src/main/java/com/rogerguo/kafka/test/beans/UserBehavior.java
